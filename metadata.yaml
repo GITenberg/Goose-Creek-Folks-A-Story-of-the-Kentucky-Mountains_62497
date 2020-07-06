@@ -1,0 +1,27 @@
+_repo: Goose-Creek-Folks-A-Story-of-the-Kentucky-Mountains_62497
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bush, Isabel Graham
+    gutenberg_agent_id: '51967'
+    url: http://www.gutenberg.org/2009/agents/51967
+  - agent_name: Bush, Florence Lilian
+    gutenberg_agent_id: '51963'
+    url: http://www.gutenberg.org/2009/agents/51963
+description: ''
+gutenberg_issued: '2020-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62497'
+  lccn: '13000318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Goose Creek Folks: A Story of the Kentucky Mountains'
+url: http://www.gutenberg.org/ebooks/62497
